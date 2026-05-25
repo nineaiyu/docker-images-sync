@@ -9,3 +9,5 @@
 "docker.io/grafana/grafana:12.3.6": "registry.cn-beijing.aliyuncs.com/nineaiyu/grafana:12.3.6"
 "docker.io/grafana/loki:3.7.2": "registry.cn-beijing.aliyuncs.com/nineaiyu/loki:3.7.2"
 "docker.io/grafana/promtail:3.7.2": "registry.cn-beijing.aliyuncs.com/nineaiyu/promtail:3.7.2"
+"docker.io/prom/alertmanager:v0.28.0": "registry.cn-beijing.aliyuncs.com/nineaiyu/alertmanager:v0.28.0"
+"docker.io/library/busybox:1.36": "registry.cn-beijing.aliyuncs.com/nineaiyu/busybox:1.36"
