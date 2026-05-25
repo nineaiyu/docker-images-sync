@@ -7,7 +7,7 @@
 "docker.io/minio/minio:RELEASE.2025-09-07T16-13-09Z": "registry.cn-beijing.aliyuncs.com/nineaiyu/minio:RELEASE.2025-09-07T16-13-09Z"
 "docker.io/prom/prometheus:v3.11.3": "registry.cn-beijing.aliyuncs.com/nineaiyu/prometheus:v3.11.3"
 "docker.io/grafana/grafana:13.1.0-25893932881": "registry.cn-beijing.aliyuncs.com/nineaiyu/grafana:13.1.0-25893932881"
-"docker.io/grafana/loki:main-2e3da9a": "registry.cn-beijing.aliyuncs.com/nineaiyu/main-2e3da9a"
+"docker.io/grafana/loki:main-2e3da9a": "registry.cn-beijing.aliyuncs.com/nineaiyu/loki:main-2e3da9a"
 "docker.io/grafana/promtail:3.6.11": "registry.cn-beijing.aliyuncs.com/nineaiyu/promtail:3.6.11"
 "docker.io/prom/alertmanager:v0.32.1": "registry.cn-beijing.aliyuncs.com/nineaiyu/alertmanager:v0.32.1"
 "docker.io/library/busybox:1.38": "registry.cn-beijing.aliyuncs.com/nineaiyu/busybox:1.38"
