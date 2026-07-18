@@ -11,3 +11,5 @@
 "docker.io/grafana/promtail:3.6.11": "registry.cn-beijing.aliyuncs.com/nineaiyu/promtail:3.6.11"
 "docker.io/prom/alertmanager:v0.32.1": "registry.cn-beijing.aliyuncs.com/nineaiyu/alertmanager:v0.32.1"
 "docker.io/library/busybox:1.38": "registry.cn-beijing.aliyuncs.com/nineaiyu/busybox:1.38"
+"docker.io/gpustack/gpustack:v2.2.0": "registry.cn-beijing.aliyuncs.com/nineaiyu/gpustack:v2.2.0"
+"docker.io/nvidia/cuda:13.1.0-base-ubuntu22.04": "registry.cn-beijing.aliyuncs.com/nineaiyu/cuda:13.1.0-base-ubuntu22.04"
