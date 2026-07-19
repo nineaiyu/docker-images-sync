@@ -13,4 +13,5 @@
 "docker.io/library/busybox:1.38": "registry.cn-beijing.aliyuncs.com/nineaiyu/busybox:1.38"
 "docker.io/gpustack/gpustack:v2.2.0": "registry.cn-beijing.aliyuncs.com/nineaiyu/gpustack:v2.2.0"
 "docker.io/gpustack/benchmark-runner:v0.0.3": "registry.cn-beijing.aliyuncs.com/nineaiyu/benchmark-runner:v0.0.3"
+"docker.io/gpustack/runner:cuda13.0-vllm0.22.1": "registry.cn-beijing.aliyuncs.com/nineaiyu/runner:cuda13.0-vllm0.22.1"
 "docker.io/nvidia/cuda:13.1.0-base-ubuntu22.04": "registry.cn-beijing.aliyuncs.com/nineaiyu/cuda:13.1.0-base-ubuntu22.04"
