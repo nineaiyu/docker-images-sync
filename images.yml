@@ -17,3 +17,4 @@
 "docker.io/library/node:22.14.0-alpine": "registry.cn-beijing.aliyuncs.com/nineaiyu/node:22.14.0-alpine"
 "docker.io/library/nginx:1.28.1-alpine": "registry.cn-beijing.aliyuncs.com/nineaiyu/nginx:1.28.1-alpine"
 "docker.io/library/rust:1-alpine3.22": "registry.cn-beijing.aliyuncs.com/nineaiyu/rust:1-alpine3.22"
+"docker.io/library/postgres:16-alpine": "registry.cn-beijing.aliyuncs.com/nineaiyu/postgres:16-alpine"
